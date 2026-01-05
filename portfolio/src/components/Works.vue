@@ -5,6 +5,14 @@
     <h2 class="title">WORKS</h2>
     <div class="works-list">
       <div class="works-item">
+        <a href="https://cozuchi.com/" target="_blank" rel="noopener">
+        <p class="works-img"><img  src="@/assets/no_image.png" alt="" /></p>
+        <p class="works-name">運用開発</p>
+        <p class="works-charge">Coding</p>
+        <p class="works-info">KARTEを活用し、ユーザーの行動や状況に応じて適切なタイミングでヘルプを表示する機能改善を実施。</p>
+      </a>
+      </div>
+      <div class="works-item">
         <a href="https://www.hisamitsu-pharm.jp/" target="_blank" rel="noopener">
           <p class="works-img"><img  src="@/assets/works_19.png" alt="" /></p>
           <p class="works-name">運用開発</p>

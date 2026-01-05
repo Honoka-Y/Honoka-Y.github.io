@@ -28,7 +28,7 @@ export default {
   name: 'MainVisual',
   data () {
     return {
-      name: 'H.I'
+      name: 'H.Y'
     }
   }
 }

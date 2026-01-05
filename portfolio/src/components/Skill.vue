@@ -186,6 +186,20 @@
           <p class="skill-text">基本的な操作が可能。GUIよりコマンドのほうが得意。</p>
         </div>
       </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_karte.png" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">KARTE</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">ターゲットとなるユーザーセグメントの作成、バナーやポップアップの出し分けシナリオの設定、およびABテストの実装などが可能。</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
