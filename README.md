@@ -1,4 +1,4 @@
-# Honoka-I.github.io
+# Honoka-Y.github.io
 
 ポートフォリオサイト
-https://honoka-i.github.io/portfolio/dist/
+https://honoka-y.github.io/portfolio/dist/
